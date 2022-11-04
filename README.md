@@ -1,1 +1,1 @@
-# python-games-2022
+# python-prac-2022
